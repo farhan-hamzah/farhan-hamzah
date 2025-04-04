@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **artificial intelligence, Udemy**
 
-- 💬 Ask me about **algorithms and programming ,AI, math, calculus, etc**
+- 💬 Ask me about **algorithms and programming, AI, math, calculus, etc**
 
 - 📫 How to reach me **farhanhamzah@student.telkomuniversity.ac.id**
 
