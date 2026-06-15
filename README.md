@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Farhan Hamzah
 
-💡 An AI/ML Engineer focused on building intelligent systems — from deep learning models to production-ready AI pipelines.
+💡 An AI/ML Engineer focused on building intelligent systems, from deep learning models to production-ready AI pipelines.
 Currently pursuing Informatics at Telkom University, I turn ideas into deployable solutions with clean, efficient code.
 
 🤖 Specialized in Machine Learning & Deep Learning using PyTorch and TensorFlow
 🌱 Continuously exploring LLMs, Vision-Language Models, and MLOps practices
-🔧 Experienced building end-to-end AI pipelines — data preprocessing, model training, evaluation, and deployment
+🔧 Experienced building end-to-end AI pipelines, data preprocessing, model training, evaluation, and deployment
 🌐 Interested in Medical AI, Computer Vision, and NLP applications
 🎯 Goal-oriented to become an AI/ML Engineer who bridges research and real-world impact
 
